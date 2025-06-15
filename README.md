@@ -14,7 +14,7 @@ solution for vk internship task
 
 ```bash
 git clone https://github.com/AlKurpiakov/vk_metrics_lib.git
-git checkout v1.0
+cd vk_metrics_lib
 mkdir build
 cd build
 cmake ..
